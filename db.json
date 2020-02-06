@@ -2,7 +2,7 @@
 "news": [
     {
         "time": "2019年11月24日 22:38",
-        "cover": "",
+        "cover": "http://apm.hcdigital.com.cn:8090/hcapmobjecthubservice/api/apm/objectHub/objects/download/5e3c154fd1b13c09a3c12315",
         "thumbnail": "http://apm.hcdigital.com.cn:8090/hcapmobjecthubservice/api/apm/objectHub/objects/download/5e3bb406d1b13c09a3c12310",
         "title": "标题标题标题标题标题标题标题标题标题标题",
         "desc": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
@@ -10,7 +10,7 @@
     },
     {
         "time": "2019年11月24日 22:38",
-        "cover": "",
+        "cover": "http://apm.hcdigital.com.cn:8090/hcapmobjecthubservice/api/apm/objectHub/objects/download/5e3c154fd1b13c09a3c12315",
         "thumbnail": "http://apm.hcdigital.com.cn:8090/hcapmobjecthubservice/api/apm/objectHub/objects/download/5e3bb406d1b13c09a3c12310",
         "title": "标题标题标题标题标题标题标题标题标题标题",
         "desc": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
@@ -18,7 +18,7 @@
     },
     {
         "time": "2019年11月24日 22:38",
-        "cover": "",
+        "cover": "http://apm.hcdigital.com.cn:8090/hcapmobjecthubservice/api/apm/objectHub/objects/download/5e3c154fd1b13c09a3c12315",
         "thumbnail": "http://apm.hcdigital.com.cn:8090/hcapmobjecthubservice/api/apm/objectHub/objects/download/5e3bb406d1b13c09a3c12310",
         "title": "标题标题标题标题标题标题标题标题标题标题",
         "desc": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
