@@ -9,13 +9,13 @@ props
 
 state
 
- - clinicals
- - dept: org
+ - clinicals: props.org.subOrgs (orgType: 4)
+ - dept: props.org
  - inputOrg
  - inputDept
  - selectedInputOrg
  - selectedInputDept
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjM3NjI2Ml19
+eyJoaXN0b3J5IjpbNzI2NzM1MzY4LC00NzIzNzYyNjJdfQ==
 -->
