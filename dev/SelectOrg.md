@@ -3,7 +3,7 @@
 props
 
  - org
- - defaultValue: should be 科室id
+ - defaultValue: 科室id 递归查找 defaultOrg
  - trace
  - label
 
@@ -17,5 +17,5 @@ state
  - selectedInputDept
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NzM1MzY4LC00NzIzNzYyNjJdfQ==
+eyJoaXN0b3J5IjpbMTkzMDIyMjcyMiwtNDcyMzc2MjYyXX0=
 -->
