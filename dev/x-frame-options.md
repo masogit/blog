@@ -45,3 +45,5 @@ tomcat配置如下
 nginx配置, nginx.conf
 - add_header X-FRAME-OPTIONS SAMEORIGN;
 
+![image](https://user-images.githubusercontent.com/5146149/117391207-0f936980-af22-11eb-9a26-4300bf2ddb1d.png)
+
