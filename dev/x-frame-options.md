@@ -21,7 +21,7 @@ ALLOW-FROM uri
 另一方面，如果设置为 SAMEORIGIN，那么页面就可以在同域名页面的 frame 中嵌套。
 ```
 
-tomcat配置如下
+tomcat配置如下, 使用过滤器的写法
 ```
 <filter>
   <filter-name>httpHeaderSecurity</filter-name>
@@ -40,6 +40,11 @@ tomcat配置如下
   <filter-name>httpHeaderSecurity</filter-name>
   <url-pattern>/*</url-pattern>
 </filter-mapping>
+```
+如果不适用过滤器或者
+```
+HttpServletResponse response = (HttpServletResponse) sResponse;
+response.addHeader("x-frame-options","SAMEORIGIN"); 
 ```
 
 nginx配置, nginx.conf
